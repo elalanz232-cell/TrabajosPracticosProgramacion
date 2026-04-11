@@ -13,7 +13,7 @@ this.lado3=lado3;
     if (lado1==lado2 && lado2==lado3) {
         tipo="Equilatero";
         
-    } else if (lado1==lado2 || lado2==lado3 || lado1==3){
+    } else if (lado1==lado2 || lado2==lado3 || lado1==lado3){
         tipo="Isoceles";
     }
     else {
