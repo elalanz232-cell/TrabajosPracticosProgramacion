@@ -44,4 +44,4 @@ public class TrabajoPractico2 {
      //MenuReloj.menu();
     // MenuBiblioteca.menu();
    //MenuCuentaBancaria.menu();
-  1//GestorEmpleado.gestionarEmpleados();
+  //GestorEmpleado.gestionarEmpleados();
